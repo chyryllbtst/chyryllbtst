@@ -13,7 +13,7 @@
 <p> A.Y 2023 - Present </p>
 
 <h1> Certification </h1>
-<a href="SQL and Relational Databases 101"> https://courses.cognitiveclass.ai/certificates/49b0ed6f2b57438daee08f43c3b00d7a </a>
+<a href="https://courses.cognitiveclass.ai/certificates/49b0ed6f2b57438daee08f43c3b00d7a"> SQL and Relational Databases 101  </a>
 
 <h1><b> Skill Sets </b></h1>
 <p><b> ■ SQL </b></p>
