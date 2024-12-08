@@ -14,8 +14,7 @@
 
 <h1> Certification </h1>
 <a href="https://courses.cognitiveclass.ai/certificates/49b0ed6f2b57438daee08f43c3b00d7a"> SQL and Relational Databases 101 </a>
-<p> <a href="
-https://catalog-education.oracle.com/ords/certview/sharebadge id=43461A44D83433E82A79997339DCF5653BA053B27A8A025388C9411079C3AD8F&fbclid=IwY2xjawHCiFJleHRuA2FlbQIxMQABHSak576MQB7o8rDwLfo0unoSD5xY0ySANK3veHojhEbeIMoQuupIPn_mJw_aem__aPPMTTRUiRTSvr1VPt8QA"> Oracle Cloud Infrastructure 2024 Certified Foundations Associate </a></p>
+<p> <a href="[https://catalog-education.oracle.com/ords/certview/sharebadge id=43461A44D83433E82A79997339DCF5653BA053B27A8A025388C9411079C3AD8F&fbclid=IwY2xjawHCiFJleHRuA2FlbQIxMQABHSak576MQB7o8rDwLfo0unoSD5xY0ySANK3veHojhEbeIMoQuupIPn_mJw_aem__aPPMTTRUiRTSvr1VPt8QA](https://catalog-education.oracle.com/ords/certview/sharebadge?id=43461A44D83433E82A79997339DCF5653BA053B27A8A025388C9411079C3AD8F&fbclid=IwY2xjawHCiFJleHRuA2FlbQIxMQABHSak576MQB7o8rDwLfo0unoSD5xY0ySANK3veHojhEbeIMoQuupIPn_mJw_aem__aPPMTTRUiRTSvr1VPt8QA)"> Oracle Cloud Infrastructure 2024 Certified Foundations Associate </a></p>
 
 <h1><b> Skill Sets </b></h1>
 <p><b> ■ SQL </b></p>
