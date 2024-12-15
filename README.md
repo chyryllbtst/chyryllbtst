@@ -15,6 +15,7 @@
 <h1> Certification </h1>
 <a href="https://courses.cognitiveclass.ai/certificates/49b0ed6f2b57438daee08f43c3b00d7a"> SQL and Relational Databases 101 </a>
 <p> <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=43461A44D83433E82A79997339DCF5653BA053B27A8A025388C9411079C3AD8F&fbclid=IwY2xjawHCiFJleHRuA2FlbQIxMQABHSak576MQB7o8rDwLfo0unoSD5xY0ySANK3veHojhEbeIMoQuupIPn_mJw_aem__aPPMTTRUiRTSvr1VPt8QA"> Oracle Cloud Infrastructure 2024 Certified Foundations Associate </a> </p>
+<p> <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=43461A44D83433E82A79997339DCF5657F961B47DFD05CBC47114324700BD082&fbclid=IwY2xjawHLeTZleHRuA2FlbQIxMQABHapmYFXinptUAHD8GOIU76qe8td-gf_WoELfxLj1xK5Khjb28W_jlmoNnA_aem_xjDygWa6X1Ojjwy1wTPbzw"> Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate </a> </p>
 <p> <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=1E33B1F1CEE329E6065392C7352E8B7DB7FD9F916910E3554B9CF3F2DE639976"> Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate </a> </p>
 
 <h1><b> Skill Sets </b></h1>
